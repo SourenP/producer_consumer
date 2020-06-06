@@ -4,7 +4,7 @@ Attempt at implementing [Lab: Concurrency in C](https://www.classes.cs.uchicago.
 
 Status: WIP (Haven't started, just setup)
 
-## Run
+## Build and Run
 
 ```
 clang -lpthread producer_consumer.c -o producer_consumer
