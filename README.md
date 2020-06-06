@@ -1,6 +1,6 @@
 # Producer Consumer
 
-Attempt at implemented [Lab: Concurrency in C](https://www.classes.cs.uchicago.edu/archive/2018/spring/12300-1/lab6.html) which writes an instance of the [Producer–consumer problem](https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem).
+Attempt at implementing [Lab: Concurrency in C](https://www.classes.cs.uchicago.edu/archive/2018/spring/12300-1/lab6.html) which writes an instance of the [Producer–consumer problem](https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem).
 
 Status: WIP (Haven't started, just setup)
 
